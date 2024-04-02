@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimetableManagementConsoleProject", "TimetableManagementConsoleProject\TimetableManagementConsoleProject.csproj", "{855607B9-E81E-4614-831E-B3B0DB00E19F}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "TimetableManagementDatabaseProject", "TimetableManagementDatabaseProject\TimetableManagementDatabaseProject.sqlproj", "{EAAED101-F634-4197-9A9D-A8222FD15250}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{855607B9-E81E-4614-831E-B3B0DB00E19F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{855607B9-E81E-4614-831E-B3B0DB00E19F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{855607B9-E81E-4614-831E-B3B0DB00E19F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{855607B9-E81E-4614-831E-B3B0DB00E19F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAAED101-F634-4197-9A9D-A8222FD15250}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAAED101-F634-4197-9A9D-A8222FD15250}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAAED101-F634-4197-9A9D-A8222FD15250}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{EAAED101-F634-4197-9A9D-A8222FD15250}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAAED101-F634-4197-9A9D-A8222FD15250}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAAED101-F634-4197-9A9D-A8222FD15250}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E4A9EC8-8A93-40CF-A050-7C6E1BC1A71E}
+	EndGlobalSection
+EndGlobal
